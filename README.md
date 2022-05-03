@@ -15,8 +15,10 @@ Rules of Game-of-Life program
   - If a cell is alive and has two or three live neighbors, it remains alive.
   - If a cell is dead and has exactly three live neighbors, it becomes alive.
  
- 
 
+## Iterate
+
+## Ref
 - https://www.facebook.com/photo/?fbid=5243431972375361&set=gm.654770448946420
 - https://github.com/bchiha/TEC-1D-Stuff/tree/master/code/games?fbclid=IwAR0Zj3jj95nTdY_aDO_2JQVHlYLaD6K_JDGc0zDfQ9mYrsQE7gyQeR-4yTs
 - https://rosettacode.org/wiki/Conway%27s_Game_of_Life
