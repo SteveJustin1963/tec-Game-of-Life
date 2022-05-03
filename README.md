@@ -2,8 +2,13 @@
 
 TEC-1 code done in ASM and MINT 
  
-Rules of Game-of-Life program
-
+### Simple
+- Any live cell with fewer than two live neighbours dies, as if by underpopulation.
+- Any live cell with two or three live neighbours lives on to the next generation.
+- Any live cell with more than three live neighbours dies, as if by overpopulation.
+- Any dead cell with exactly three live neighbours becomes a live cell, as if by reproduction. 
+ 
+### detail
 - The program should have a graphical user interface that allows the user to specify the size of the game board, the number of generations to simulate, and the initial state of the game board.
 - The program should use a two-dimensional array to represent the game board.
 - Each cell on the game board should be represented by a single character.
