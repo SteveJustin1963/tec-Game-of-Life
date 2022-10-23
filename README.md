@@ -29,4 +29,6 @@ TEC-1 code done in ASM and MINT
 - https://github.com/bchiha/TEC-1D-Stuff/tree/master/code/games
 - https://rosettacode.org/wiki/Conway%27s_Game_of_Life
 - https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life
+- https://www.youtube.com/watch?v=RY7hjt5Gi-E&ab_channel=PBSSpaceTime
+
 
