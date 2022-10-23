@@ -22,6 +22,7 @@ TEC-1 code done in ASM and MINT
  
 
 ## Iterate
+- use in tec-AI
 
 ## Ref
 - https://www.facebook.com/photo/?fbid=5243431972375361&set=gm.654770448946420
