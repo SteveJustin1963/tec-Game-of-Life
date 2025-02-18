@@ -1,14 +1,19 @@
 # tec-Game-of-Life
 
-TEC-1 code done in ASM and MINT 
+
+https://github.com/bchiha/TEC-1D-Stuff/tree/master/code/games
  
 ## acknowledgement
-- Craig Hart and Scott Faulkner have both created versions of John Conway's Game of Life using different hardware and programming languages. 
+Craig Hart and Scott Faulkner have both created versions of John Conway's Game of Life using different hardware and programming languages.
+
 - Craig's version uses an SPI2C board and an 84x48 LCD display, Craig has also shared the code for his version on Github.
 - Scott's version is on an Arduino mega with a 24x16 LED array.  
 - Ken Stone mentions that he has seen an art piece created with a similar concept by someone named Peter W Scott.
-- Břīåñ CHIHД, https://github.com/bchiha/TEC-1D-Stuff/blob/master/code/games/Game_of_life.z80
- ```
+- Břīåñ CHIHД,
+  - https://github.com/bchiha/TEC-1D-Stuff/blob/master/code/games
+ 
+ 
+```
 Each cell evolves based on the number of cells surrounding it
 
 Basic cell rules:
