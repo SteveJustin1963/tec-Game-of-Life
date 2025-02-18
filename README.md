@@ -9,15 +9,19 @@ TEC-1 code done in ASM and MINT
 - Ken Stone mentions that he has seen an art piece created with a similar concept by someone named Peter W Scott.
 - Břīåñ CHIHД, https://github.com/bchiha/TEC-1D-Stuff/blob/master/code/games/Game_of_life.z80
  ```
- Each cell evolves based on the number of cells surrounding it
+Each cell evolves based on the number of cells surrounding it
+
 Basic cell rules:
+
 Any live cell with two or three live neighbours survives
 Any dead cell with three live neighbours becomes a live cell
 All other live cells die in the next generation, similarly all other dead cells stay dead
+
 To play:
 Run the program and watch
 Use the keyboard to select random starting cell position or pre-defined cells
 Press a key at anytime to start a new animation
+
 Keyboard options include:
 0: Random
 5: Glider
@@ -39,10 +43,18 @@ GO: Octagon
 9: Drummer
 E: Face
 AD: Heart
-To run, the program requires either a 4k7 resistor between the NMI and D6 or the DAT expansion board fitted to port 3
-The 8x8 LED board is fitted to ports 5 and 6 with the port select strobe of the left hand latch going to port 6
+
+To run, the program requires either a 4k7 resistor between the
+NMI and D6 or the DAT expansion board fitted to port 3
+
+The 8x8 LED board is fitted to ports 5 and 6 with the port
+select strobe of the left hand latch going to port 6
+
 Press 'GO' to start with a random cell placement
+
 Press '+' or '-' to cycle through pre-defined cell placement
+
 Press the above keys at anytime to restart a simulation
+
 Enjoy life taking on its own.
 ```
